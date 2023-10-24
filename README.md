@@ -16,8 +16,17 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+</div>
+
+<!-- Server -->
+<!-- Development Tools -->
+
+## ✍ What I'm gonna learn
+
+<p><strong>Frontend</strong></p>
+<div>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 </div>
 
 <!-- Backend -->
@@ -42,7 +51,6 @@
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"> 
 </div>
 
-<!-- Server -->
-<!-- Development Tools -->
+## 🔒🛠 Algorithms
 
-## ✍ What I wanna learn
+## 🤔 My portfoilo Website
