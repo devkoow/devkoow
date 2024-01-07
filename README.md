@@ -96,7 +96,8 @@
 
 ## 🔒🛠 Algorithms
 
-프로그래머스 Lv.0 완료
+프로그래머스 '코딩테스트 입문(Lv.0 해당' 완료
+- 8월 까지 Lv.3 도달하는 게 목표!
 
 ## 🤔 My portfoilo Website
 
