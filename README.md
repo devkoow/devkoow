@@ -122,10 +122,10 @@
 </div>
 <br/>
 
-## 🔒🛠 Algorithms
+## 🔒🛠 알고리즘
 
 프로그래머스 Lv.0 완료
 
-## 🤔 My portfoilo Website
+## 🤔 포트폴리오를 한 눈에 확인해보세요!
 
 https://devkoow.github.io/
