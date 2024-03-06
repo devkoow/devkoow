@@ -34,7 +34,7 @@
 <!-- API -->
 <p><strong>API</strong></p>
 <div>
-    <img src="https://img.shields.io/badge/youtube vidoes-FF0000?style=flat-square&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/youtube videos-FF0000?style=flat-square&logo=youtube&logoColor=white">
 </div>
 <br/>
 
