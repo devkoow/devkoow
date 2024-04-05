@@ -8,7 +8,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23387BF1&title_bg=%23F1C224&icon=&icon_color=%23000000&title=GitHub+Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## ⌨ 프로젝트를 통해 사용해 본 스택
+## ⌨ 프로젝트를 통해 사용해 본 것들
 
 <!-- "https://img.shields.io/badge/[보여줄 이름]-[폰트 컬러]?style=[뱃지 스타일]&logo=[스택의 아이콘]&logoColor=[로고컬러]" -->
 
@@ -26,13 +26,17 @@
 <div>
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white">
+    <img src="https://img.shields.io/badge/React Router-white?style=flat-square&logo=reactrouter&logoColor=CA4245">
+    <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
     <img src="https://img.shields.io/badge/axios-7952B3?style=flat-square&logo=axios&logoColor=#5A29E4">
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/React icons-ed0c8c?style=flat-square&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/React toastify-5afa67?style=flat-square&logo=&logoColor=black">
 </div>
 <br/>
 
-<!-- API -->
-<p><strong>API</strong></p>
+<!-- OPEN API -->
+<p><strong>Opened APIs</strong></p>
 <div>
     <img src="https://img.shields.io/badge/youtube videos-FF0000?style=flat-square&logo=youtube&logoColor=white">
 </div>
@@ -62,7 +66,7 @@
 </div>
 <br/>
 
-## ✍ 앞으로 배워야 할 스택
+## ✍ 앞으로 배워갈 것들
 
 <!-- FrontEnd -->
 <p><strong>프론트엔드</strong></p>
@@ -92,7 +96,6 @@
 <!-- Backend -->
 <p><strong>백엔드</strong></p>
 <div>
-     <img src="https://img.shields.io/badge/JAVA-ffffff?style=flat-square&logo=java&logoColor=white">
      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
 </div>
 <br/>
@@ -126,6 +129,6 @@
 
 프로그래머스 Lv.0 완료
 
-## 🤔 포트폴리오를 한 눈에 확인해보세요!
+## 🤔 프로젝트를 소개합니다
 
 https://devkoow.github.io/
