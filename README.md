@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/React icons-ed0c8c?style=flat-square&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/React toastify-5afa67?style=flat-square&logo=&logoColor=black">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"> 
 </div>
 <br/>
 
@@ -107,10 +108,8 @@
 <!-- Database -->
 <p><strong>데이터베이스</strong></p>
 <div>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"> 
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
-    
 </div>
 <br/>
 
