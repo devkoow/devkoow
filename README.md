@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/React Router-white?style=flat-square&logo=reactrouter&logoColor=CA4245">
     <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
     <img src="https://img.shields.io/badge/axios-7952B3?style=flat-square&logo=axios&logoColor=#5A29E4">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"> 
 </div>
 <br/>
 
@@ -50,8 +49,9 @@
 <!-- OPEN API -->
 <p><strong>오픈 API</strong></p>
 <div>
-    <img src="https://img.shields.io/badge/Youtube Videos-FF0000?style=flat-square&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/Youtube Data-FF0000?style=flat-square&logo=youtube&logoColor=white">
     <img src="https://img.shields.io/badge/Google OAuth-4285F4?style=flat-square&logo=google&logoColor=white">
+    <img src="https://img.shields.io/badge/Naver API-03C75A?style=flat-square&logo=naver&logoColor=white">
 </div>
 <br/>
 
@@ -71,6 +71,13 @@
 </div>
 <br/>
 
+<!-- 클라우드 -->
+<p><strong>데이터베이스</strong></p>
+<div>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"> 
+</div>
+<br/>
+
 <!-- Manager -->
 <p><strong>협업</strong></p>
 <div>
@@ -87,6 +94,7 @@
     <img src="https://img.shields.io/badge/GPT-7EBC6F?style=flat-square&logo=openai&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 </div>
 <br/>
 
