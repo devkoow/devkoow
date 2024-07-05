@@ -238,7 +238,6 @@
 </div>
 <br/>
 
-## 🧩 한 눈에 보는 포트폴리오
+## 🧩 한 눈에 보는 포트폴리오 링크
 
-[<img src='image.png'>](https://file.notion.so/f/f/6f2e29b8-758f-4d97-802c-53dc9a0745c5/ebbf7cf6-cafe-4694-a3a6-c4f70f380cea/image.png?id=38d17026-b5a9-47d8-8fd5-19b1c477beac&table=block&spaceId=6f2e29b8-758f-4d97-802c-53dc9a0745c5&expirationTimestamp=1720310400000&signature=dt55QnN6nUX9MXRIBNpf7MncOpbP8U-Ug3yyQ7CIRWM&downloadName=image.png)
 https://devkoow.github.io/
