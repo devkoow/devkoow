@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=160&color=036ffc)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&pause=1000&color=F7D434&center=false&vCenter=true&random=false&width=435&lines=Wook+:+Watch+my+acheivements+!!)](https://git.io/typing-svg)
-
-## 💥 깃허브 Stats
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&pause=1000&color=F7D434&center=false&vCenter=true&random=false&width=435&lines=windowook+github)](https://git.io/typing-svg)
 
 ![devkoow's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkoow&show_icons=true&theme=radical)
 
@@ -39,10 +35,9 @@
 
 <!-- UI -->
 <div>
-    <strong>UI 스타일링</strong><br/>
+    <strong>CSS 라이브러리</strong><br/>
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/React icons-ed0c8c?style=flat-square&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/React toastify-5afa67?style=flat-square&logo=&logoColor=black">
 </div>
@@ -54,6 +49,8 @@
     <img src="https://img.shields.io/badge/Youtube Data-FF0000?style=flat-square&logo=youtube&logoColor=white">
     <img src="https://img.shields.io/badge/Google OAuth-4285F4?style=flat-square&logo=google&logoColor=white">
     <img src="https://img.shields.io/badge/Naver API-03C75A?style=flat-square&logo=naver&logoColor=white">
+    <img src="https://img.shields.io/badge/Kakao OAuth-f5c905?style=flat-square&logo=kakao&logoColor=white">
+    <img src="https://img.shields.io/badge/Upbit API-04055e?style=flat-square&logoColor=black">
 </div>
 <br/>
 
@@ -68,7 +65,8 @@
 <!-- CI/CD -->
 <div>
     <strong>CI/CD</strong><br/>
-    <img src="https://img.shields.io/badge/netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </div>
 <br/>
@@ -117,6 +115,5 @@
 </div>
 <br/>
 
-## 🧩 한 눈에 보는 포트폴리오 링크
-
+## 🧩 한 눈에 보는 포트폴리오
 https://devkoow.github.io/
