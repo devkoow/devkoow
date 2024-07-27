@@ -115,5 +115,9 @@
 </div>
 <br/>
 
+<div>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</div>
+
 ## 🧩 한 눈에 보는 포트폴리오
 https://devkoow.github.io/
